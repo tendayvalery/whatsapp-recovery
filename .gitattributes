@@ -1,0 +1,11 @@
+# Generated on 2026-11-10
+# Normalize line endings
+*.map linguist-generated
+*.ts linguist-detectable
+
+yarn.lock linguist-generated
+
+*.html linguist-vendored
+docs/** linguist-vendored   
+src/*.ts linguist-detectable
+*.yml linguist-detectable=false
